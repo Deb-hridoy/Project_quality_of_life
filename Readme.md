@@ -33,7 +33,7 @@ For visualizing and knowing more about the quality of life across the world, use
 
 ### 1. Clone the repository
 `git clone https://github.com/YOUR_USERNAME/Project_quality_of_life.git`
-cd Project_quality_of_life
+`cd Project_quality_of_life`
 
 ### 2. Create a virtual environment
 `python -m venv virenv`
