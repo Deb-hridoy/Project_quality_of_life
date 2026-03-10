@@ -12,7 +12,19 @@ This project aims to answer the following questions:
 
 For visualizing and knowing more about the quality of life across the world, use [this link](https://public.tableau.com/views/TheGlobalLivingStandardsfrom2012to2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-## Findings from D
+## Findings from Dashboard
+- Identified that Iceland and Ireland have the highest cost of living
+  While Nigeria has the lowest
+- Discovered that Kenya and Pakistan improved their quality of life
+  the most over the years
+- Found a positive relationship between purchasing power and
+  quality of life, with Spain and Qatar as notable outliers
+- Revealed that a higher quality of life does not always mean higher
+  property prices, as seen in Israel and Oman
+- Showed that Finland is the safest country despite moderate
+  pollution levels
+- Highlighted healthcare and pollution patterns specifically
+  across South Asian countries, including Bangladesh
 
 ## Data Source
 `-https://www.numbeo.com/quality-of-life/rankings_by_country.jsp`
