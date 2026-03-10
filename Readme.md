@@ -30,9 +30,11 @@ For visualizing and knowing more about the quality of life across the world, use
 `-https://www.numbeo.com/quality-of-life/rankings_by_country.jsp`
 
 ## Setup Instructions
+### 1. Open a folder
+Create a folder as your desired location. Then go to that folder, and in the address bar of your newly created folder type `cmd`.
 
-### 1. Clone the repository
-`git clone https://github.com/YOUR_USERNAME/Project_quality_of_life.git`
+### 2. Clone the repository
+After the terminal opens, type `git clone` and paste this `https://github.com/Deb-hridoy/Project_quality_of_life.git` and then
 `cd Project_quality_of_life`
 
 ### 2. Create a virtual environment
