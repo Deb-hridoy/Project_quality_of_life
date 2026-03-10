@@ -1,7 +1,7 @@
 # Quality of Life Index (2012–2026)
 
 ## Project Overview
-The objective of this project is to gather data on the quality of life from 2012 to 2026 from this website [Link](https://www.numbeo.com/quality-of-life/rankings_by_country.jsp). Then, this data is used to visualize and understand the following questions using Tableau Dashboard:<br>
+The objective of this project is to gather data on the quality of life from 2012 to 2026 from this website ***[Link](https://www.numbeo.com/quality-of-life/rankings_by_country.jsp)***. Then, this data is used to visualize and understand the following questions using Tableau Dashboard:<br>
 This project aims to answer the following questions:
 - Which countries have the highest and lowest cost of living?
 - Which countries improved their quality of life the most from 2012 to 2026?
