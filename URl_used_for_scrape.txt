@@ -1,0 +1,2 @@
+Website for Scraping :
+ Name : https://www.numbeo.com/quality-of-life/rankings_by_country.jsp
