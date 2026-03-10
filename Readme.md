@@ -10,7 +10,7 @@ This project aims to answer the following questions:
 - How do pollution levels compare against safety across countries?
 - How do healthcare and pollution levels compare in South Asian countries?
 
-For visualizing and knowing more about the quality of life across the world, use [this link](https://public.tableau.com/views/TheGlobalLivingStandardsfrom2012to2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+For visualizing and knowing more about the quality of life across the world, use ***[this link](https://public.tableau.com/views/TheGlobalLivingStandardsfrom2012to2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).***
 
 ## Findings from Dashboard
 - Identified that Iceland and Ireland have the highest cost of living
@@ -37,14 +37,14 @@ Create a folder as your desired location. Then go to that folder, and in the add
 After the terminal opens, type `git clone` and paste this `https://github.com/Deb-hridoy/Project_quality_of_life.git` and then type
 `cd Project_quality_of_life`
 
-### 2. Create a virtual environment
-Create a virtual environment by typing this code `python -m venv virenv` and then activate environment by using this code `virenv\Scripts\activate`
+### 3. Create a virtual environment
+Create a virtual environment by typing this code `python -m venv virenv` and then activate the environment by using this code `virenv\Scripts\activate`
 
-### 3. Install dependencies
+### 4. Install dependencies
 Install required packages by using this code `pip install -r requirements.txt`
 
-### 4. Run the scraper
+### 5. Run the scraper
 Run this code `python website_scrapping.py` to scrape the website and get the data.
 
-### 5. Run data processing
+### 6. Run data processing
 Preprocess the data using this code `python data_prerocess.py`. Finally, the dataset is ready for analysis.
