@@ -10,7 +10,7 @@ This project aims to answer the following questions:
 - How do pollution levels compare against safety across countries?
 - How do healthcare and pollution levels compare in South Asian countries?
 
-For visualizing and knowing more about the quality of life across the world, use this [link](https://public.tableau.com/views/TheGlobalLivingStandardsfrom2012to2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+For visualizing and knowing more about the quality of life across the world, use [this link](https://public.tableau.com/views/TheGlobalLivingStandardsfrom2012to2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Findings from D
 
