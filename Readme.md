@@ -34,18 +34,17 @@ For visualizing and knowing more about the quality of life across the world, use
 Create a folder as your desired location. Then go to that folder, and in the address bar of your newly created folder type `cmd`.
 
 ### 2. Clone the repository
-After the terminal opens, type `git clone` and paste this `https://github.com/Deb-hridoy/Project_quality_of_life.git` and then
+After the terminal opens, type `git clone` and paste this `https://github.com/Deb-hridoy/Project_quality_of_life.git` and then type
 `cd Project_quality_of_life`
 
 ### 2. Create a virtual environment
-`python -m venv virenv`
-`virenv\Scripts\activate`
+Create a virtual environment by typing this code `python -m venv virenv` and then activate environment by using this code `virenv\Scripts\activate`
 
 ### 3. Install dependencies
-`pip install -r requirements.txt`
+Install required packages by using this code `pip install -r requirements.txt`
 
 ### 4. Run the scraper
-`python website_scrapping.py`
+Run this code `python website_scrapping.py` to scrape the website and get the data.
 
 ### 5. Run data processing
-`python data_prerocess.py`
+Preprocess the data using this code `python data_prerocess.py`. Finally, the dataset is ready for analysis.
